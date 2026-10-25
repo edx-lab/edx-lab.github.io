@@ -1,0 +1,97 @@
+GECKO Lite W | EDX_LAB
+3D ENCLOSURE DESIGN LICENSE / LICENCIA DEL DISEÑO 3D
+Version 1.0.0 | 2026
+
+License / Licencia: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Full legal terms / Texto legal completo:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Plain-language summary / Resumen:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Copyright (c) 2026 EduSicilia | EDX_LAB
+Official website / Web oficial: https://edx-lab.github.io/
+
+====================================================================
+ESPAÑOL
+====================================================================
+
+1. ALCANCE
+Esta licencia se aplica exclusivamente a los archivos originales de diseño
+mecánico de la carcasa GECKO Lite W distribuidos en este paquete, incluidos
+los modelos STL y STEP, en la medida en que sus derechos pertenezcan al autor.
+No cambia las licencias del firmware Bruce, bibliotecas, esquemas o contenidos
+de terceros. Cada componente externo se rige por su licencia correspondiente.
+
+2. PERMISOS
+Puedes descargar, copiar, compartir, imprimir en 3D y modificar estos modelos
+para fines no comerciales, siempre que cumplas las condiciones de la licencia.
+
+3. CONDICIONES
+- Atribución: indica «GECKO Lite W — EduSicilia | EDX_LAB», enlaza la web
+  oficial y esta licencia, e indica si has realizado modificaciones.
+- No comercial: la licencia no concede permiso para usos comerciales de los
+  archivos ni de las reproducciones del diseño. Para esos usos, solicita
+  autorización por separado al titular de los derechos.
+- Compartir igual: si compartes una adaptación del diseño, debes distribuir
+  esa adaptación bajo CC BY-NC-SA 4.0 o una licencia permitida por sus términos.
+- No impongas restricciones legales o tecnológicas adicionales incompatibles
+  con los permisos concedidos por esta licencia.
+
+4. EJEMPLO DE ATRIBUCIÓN
+«Basado en GECKO Lite W, por EduSicilia | EDX_LAB
+(https://edx-lab.github.io/), bajo CC BY-NC-SA 4.0
+(https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Modificaciones: [indicar cambios, si los hay]».
+
+5. SEGURIDAD Y RESPONSABILIDAD
+El diseño se proporciona tal cual, sin garantías. La persona que fabrique o
+monte el dispositivo es responsable de verificar las tolerancias, el ajuste,
+las conexiones eléctricas y la seguridad de la batería LiPo. Este archivo
+no certifica la seguridad del producto ni sustituye las instrucciones técnicas.
+
+====================================================================
+ENGLISH
+====================================================================
+
+1. SCOPE
+This license applies only to the original GECKO Lite W mechanical enclosure
+design files supplied in this package, including STL and STEP models, to the
+extent that the author owns the relevant rights. It does not replace or
+modify the licenses of Bruce firmware, libraries, schematics, or third-party
+content. Each third-party component remains subject to its own license.
+
+2. PERMISSIONS
+You may download, copy, share, 3D print, and modify these models for
+noncommercial purposes, subject to the license conditions.
+
+3. CONDITIONS
+- Attribution: credit "GECKO Lite W — EduSicilia | EDX_LAB", link to the
+  official website and this license, and indicate whether changes were made.
+- NonCommercial: this license does not grant permission for commercial uses
+  of the files or reproductions of the design. Contact the rights holder
+  separately to request such permission.
+- ShareAlike: if you share an adaptation, license it under CC BY-NC-SA 4.0
+  or another license permitted by its terms.
+- Do not apply additional legal or technological restrictions that prevent
+  recipients from exercising rights granted by this license.
+
+4. EXAMPLE ATTRIBUTION
+"Based on GECKO Lite W by EduSicilia | EDX_LAB
+(https://edx-lab.github.io/), licensed under CC BY-NC-SA 4.0
+(https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Changes made: [describe any modifications]."
+
+5. SAFETY AND DISCLAIMER
+The design is provided as-is, without warranties. Anyone manufacturing or
+assembling the device is responsible for checking tolerances, fit, electrical
+connections, and LiPo battery safety. This notice is not a product safety
+certification and does not replace technical assembly instructions.
+
+====================================================================
+LEGAL NOTICE / AVISO LEGAL
+====================================================================
+This file is an explanatory notice; the complete Creative Commons 4.0 legal
+code linked above governs in the event of any conflict.
+
+Este documento es un aviso explicativo; en caso de discrepancia prevalece el
+texto legal completo de Creative Commons 4.0 enlazado arriba.
